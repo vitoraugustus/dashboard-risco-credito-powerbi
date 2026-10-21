@@ -7,10 +7,10 @@ Visualização
 <img width="1339" height="755" alt="Screenshot 2026-10-20 213532" src="https://github.com/user-attachments/assets/7a97b238-88c7-4dd0-a420-683ae94ecd24" />
 
 Ferramentas utilizadas
--Power BI Desktop
--Power Query (ETL)
--Linguagem Dax
--Python (extração dos dados originais)
+-[ ] Power BI Desktop
+-[ ] Power Query (ETL)
+-[ ] Linguagem Dax
+-[ ] Python (extração dos dados originais)
 
 Insights
 -Perfil por idade
